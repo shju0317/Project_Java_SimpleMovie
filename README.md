@@ -11,8 +11,8 @@ Java 기반의 한국 영화 박스오피스 1~10위까지의 정보를 parsing 
   - Version Tools: [Github, Sourcetree]()
   - Parsing URL: [한국 영화진흥위원회](https://www.kofic.or.kr/kofic/business/infm/introBoxOffice.do)
   - Crawling URL: 
-    [네이버 영화](https://movie.naver.com/)
-    [다음 영화](https://movie.daum.net/main/new#slide-1-0)
+    + [네이버 영화](https://movie.naver.com/)
+    + [다음 영화](https://movie.daum.net/main/new#slide-1-0)
 
 ## :floppy_disk:Repository structure description
 #### 1. practice
