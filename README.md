@@ -29,7 +29,7 @@ Java 기반의 한국 영화 박스오피스 1~10위까지의 정보를 parsing 
 #### 5. src/domain 
   - [ReplyDTO](https://github.com/shju0317/Project_SimpleMovie/blob/master/SimpleMovie/src/domain/ReplyDTO.java): 네이버, 다음에서 영화 댓글 수집 후 MongoDB에 저장할 때 사용하는 DTO
 #### 6. pom.xml 
-  - [pom.xml](): Maven에서 build할 Library 설정하는 장소
+  - [pom.xml](https://github.com/shju0317/Project_SimpleMovie/blob/master/SimpleMovie/pom.xml): Maven에서 build할 Library 설정하는 장소
   
 ## :speech_balloon:How to use?
 
