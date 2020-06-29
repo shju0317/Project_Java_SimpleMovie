@@ -1,15 +1,18 @@
-# :movie_camera:Project_SimpleMovie
+# :movie_camera: Project_SimpleMovie
 
-Python 기반의 Selenium(feat: Chrome Driver)을 사용하여 인스타그램에 로그인하고, 원하는 해시태그로 피드를 검색한 후 피드별로 좋아요를 클릭하고 댓글 등록을 반복하는 매크로 프로그램.
+Java 기반의 한국 영화 박스오피스 1~10위까지의 정보를 parsing 및 crawling하고 MongoDB에 저장 후 사용자에게 정보를 출력해주는 콘솔프로그래밍
 
 ## :heavy_check_mark:Developer Environment
 
-  - Language: [:crocodile:Python 3.7](https://www.python.org/)
-  - IDE Tool: [:computer:Pycharm](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
-  - Package Manager: [:snake:Anaconda](https://www.anaconda.com/)
-  - Using Package: [requests, selenium, beautifulsoup4, time, random](https://anaconda.org/)
-  - Using WebDriver: [Chrome Driver](https://chromedriver.chromium.org/downloads) (
-Use the same version as the Chrome browser version you use!)
+  - Language: [:coffee:JAVA 1.8](https://www.oracle.com/kr/index.html)
+  - IDE Tool: [:computer:Eclipse](https://www.eclipse.org/)
+  - Package Manager: [MavenRepository](https://mvnrepository.com/)
+  - Using Package: [jsoup, json-simple, Mongo-java-driver]
+  - Version Tools: [Github, Sourcetree]()
+  - Parsing URL: [한국 영화진흥위원회](https://www.kofic.or.kr/kofic/business/infm/introBoxOffice.do)
+  - Crawling URL: 
+    [네이버 영화](https://movie.naver.com/)
+    [다음 영화](https://movie.daum.net/main/new#slide-1-0)
 
 ## :floppy_disk:Repository structure description
 #### 1. practice
